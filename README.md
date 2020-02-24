@@ -19,5 +19,5 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
 
 ## Visualization
 
-![image](https://github.com/kaiwang960112/Self-Cure-Network/blob/master/imgs/vi)
+![image](https://github.com/kaiwang960112/Self-Cure-Network/blob/master/imgs/visularization2.png)
 
