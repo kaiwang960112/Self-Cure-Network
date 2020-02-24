@@ -6,7 +6,7 @@
                               Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
                                          Nanyang Technological University, Singapore
                                          {kai.wang, xj.peng, yu.qiao}@siat.ac.cn
-![image](https://github.com/kaiwang960112/Self-Cure-Network/edit/master/imgs/)
+![image](https://github.com/kaiwang960112/Self-Cure-Network/blob/master/imgs/SCNpipeline.png)
 
 
 
