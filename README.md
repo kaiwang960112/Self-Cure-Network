@@ -22,7 +22,7 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 ### Self-Attention Importance Weighting
-We introduce the self-attention importance weighting module to capture the contributions of samples for training. It is expected that certain samples may have high importance weights while uncertain ones have low importance. Let ![](http://latex.codecogs.com/gif.latex?\\$\mathbf{F}=[\mathbf{x}_1, \mathbf{x}_2, \ldots, \mathbf{x}_N]\in R^{D\times N}$) denotes the facial features of $N$ images, the self-attention importance weighting module takes $\mathbf{F}$ as input, and  output an importance weight for each feature. Specifically, the self-attention importance weighting module is comprised of a linear fully-connected (FC) layer and a sigmoid activation function, which can be formulated as ,
+We introduce the self-attention importance weighting module to capture the contributions of samples for training. It is expected that certain samples may have high importance weights while uncertain ones have low importance. Let <img src="http://chart.googleapis.com/chart?cht=tx&chl= $$\mathbf{F}=[\mathbf{x}_1, \mathbf{x}_2, \ldots, \mathbf{x}_N]\in R^{D\times N}$$" style="border:none;"> denotes the facial features of $N$ images, the self-attention importance weighting module takes $\mathbf{F}$ as input, and  output an importance weight for each feature. Specifically, the self-attention importance weighting module is comprised of a linear fully-connected (FC) layer and a sigmoid activation function, which can be formulated as ,
 
 \begin{equation}
 \alpha_i =\sigma( \mathbf{W}_a^\top \mathbf{x}_i ),
