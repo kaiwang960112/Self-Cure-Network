@@ -21,3 +21,6 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
 
 ![image](https://github.com/kaiwang960112/Self-Cure-Network/blob/master/imgs/visularization2.png)
 
+
+# I am going to upload full-text of SCN to Arxiv and release SCN code as soon as possible.
+
