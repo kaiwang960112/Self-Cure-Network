@@ -1,4 +1,4 @@
-## Our manuscript has been accepted by CVPR! 
+## Our manuscript has been accepted by CVPR2020! 
 
 # Suppressing Uncertainties for Large-Scale Facial Expression Recognition
 
