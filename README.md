@@ -1,4 +1,5 @@
-## Our manuscript has been accepted by CVPR2020! I really appreciate the contribution from my co-author: Prof. Yu Qiao, Prof. Xiaojiang Peng, Jianfei Yang and Prof. Shijian Lu
+## Our manuscript has been accepted by CVPR2020! [link](https://arxiv.org/pdf/2002.10392.pdf)
+## I really appreciate the contribution from my co-author: Prof. Yu Qiao, Prof. Xiaojiang Peng, Jianfei Yang and Prof. Shijian Lu
 
 # Suppressing Uncertainties for Large-Scale Facial Expression Recognition
 
