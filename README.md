@@ -1,6 +1,8 @@
 ## Our manuscript has been accepted by CVPR2020! [link](https://arxiv.org/pdf/2002.10392.pdf)
 ## I really appreciate the contribution from my co-authors: Prof. Yu Qiao, Prof. Xiaojiang Peng, Jianfei Yang and Prof. Shijian Lu
 
+# Based on our further exploring, SCN can be applied in many other topics.
+
 # Suppressing Uncertainties for Large-Scale Facial Expression Recognition
 
                                   Kai Wang, Xiaojiang Peng, Jianfei Yang, Shijian Lu, and Yu Qiao
