@@ -8,8 +8,8 @@
                                   Kai Wang, Xiaojiang Peng, Jianfei Yang, Shijian Lu, and Yu Qiao
                               Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
                                          Nanyang Technological University, Singapore
-                                         {kai.wang, xj.peng, yu.qiao}@siat.ac.cn
-					 Kai Wang and Xiaojiang Peng are equally-contributted authors
+                                            {kai.wang, xj.peng, yu.qiao}@siat.ac.cn
+				   Kai Wang and Xiaojiang Peng are equally-contributted authors
 					 
 ![image](https://github.com/kaiwang960112/Self-Cure-Network/blob/master/imgs/scn-moti.png)
 
