@@ -34,7 +34,7 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
   Torch 1.2.0 or higher and torchvision 0.4.0 or higher are required.
 - Data Preparation
 
-  Download basic emotions dataset of [RAF-DB](http://www.whdeng.cn/RAF/model1.html#dataset), and guarantee it have a structure like following:
+  Download basic emotions dataset of [RAF-DB](http://www.whdeng.cn/RAF/model1.html#dataset), and make sure it have a structure like following:
  
 ```
 - datasets/raf-basic/
@@ -45,7 +45,7 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
              test_0001_aligned.jpg
              ...
 ```
-- Start Traning
+- Start Training
 
 ​```
       python train.py --margin_1=0.07
