@@ -28,5 +28,25 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
 ![image](https://github.com/kaiwang960112/Self-Cure-Network/blob/master/imgs/visularization2.png)
 
 
-# I am going to upload full-text of SCN to Arxiv and release SCN code as soon as possible.
+## Train
+- Pytorch
 
+  Torch 1.2.0 or higher and torchvision 0.4.0 or higher are required.
+- Data Preparation
+
+  Download basic emotions dataset of [RAF-DB](http://www.whdeng.cn/RAF/model1.html#dataset), and guarantee it have a structure like following:
+ 
+```
+- datasets/raf-basic/
+         EmoLabel/
+             list_patition_label.txt
+         Image/aligned/
+	     train_00001_aligned.jpg
+             test_0001_aligned.jpg
+             ...
+```
+- Start Traning
+
+​```
+      python train.py --margin_1=0.07
+​```
