@@ -52,3 +52,4 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
 ​```
 - Result
 
+![image](https://github.com/nzhq/Self-Cure-Network/blob/master/imgs/result-raf.jpg)
