@@ -1,6 +1,6 @@
 ## Thank you for everyone nice and kindly waiting!
 
-## News：My friend [Zhiqing Ning](https://github.com/nzhq) open the SCN code and reproduce the experiments result!!! Thank you Zhiqing!!!
+## News：My friend [nzhq](https://github.com/nzhq) open the SCN code and reproduce the experiments result!!! Thank you Zhiqing!!!
 
 ## For the WebEmotion Dataset, I will open the search and clips generation code, everyone can download the videos from YouTube with my code. 
 
