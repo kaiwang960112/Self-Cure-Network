@@ -50,3 +50,5 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
 ​```
       python train.py --margin_1=0.07
 ​```
+- Result
+
