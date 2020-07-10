@@ -56,6 +56,8 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
 ​```
       python train.py --margin_1=0.07
 ​```
+  
+  --margin_1 denotes the margin in Rank Regularization which is set to 0.15 with batch size 1024 in the paper. Here --margin_1=0.07 with smaller batch size 64[default] in train.py can get similar results.
 - Result
 
 ![image](https://github.com/nzhq/Self-Cure-Network/blob/master/imgs/result-raf.jpg)
