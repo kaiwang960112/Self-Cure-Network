@@ -1,3 +1,9 @@
+## Thank you for everyone nice and kindly waiting!
+
+## News：My friend [Zhiqing Ning](https://github.com/nzhq) open the SCN code and reproduce the experiments result!!! Thank you Zhiqing!!!
+
+## For the WebEmotion Dataset, I will open the search and clips generation code, everyone can download the videos from YouTube with my code. 
+
 ## Our manuscript has been accepted by CVPR2020! [link](https://arxiv.org/pdf/2002.10392.pdf)
 ## I really appreciate the contribution from my co-authors: Prof. Yu Qiao, Prof. Xiaojiang Peng, Jianfei Yang and Prof. Shijian Lu
 
