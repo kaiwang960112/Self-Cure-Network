@@ -1,3 +1,5 @@
+## We find that SCN can correct about 50% noisy labels when train two fer datasets (add 10%~30% flip noises) together. We also find that scn can work in Face Recognition!!!
+
 ## Thank you for everyone nice and kindly waiting!
 
 ## News：My friend [nzhq](https://github.com/nzhq) open the SCN code and reproduce the experiments result!!! Thank you Zhiqing!!!
