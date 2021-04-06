@@ -65,3 +65,6 @@ Our SCN is built upon traditional CNNs and consists of three crucial modules: i)
 ![image](https://github.com/nzhq/Self-Cure-Network/blob/master/imgs/result-raf.jpg)
   
   Accuracy on test set should hit 87.03%, as the paper shows, when training with RAF-DB only.
+  
+  The pretrained model of SCN can be downloaded at this [link](https://drive.google.com/drive/folders/1dpDntw-2jLCNgjZ20W9aLg8a6DEEo7gX?usp=sharing)
+  
